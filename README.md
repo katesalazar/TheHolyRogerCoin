@@ -10,7 +10,7 @@ TheHolyRoger Core v.3r integration/staging tree
 Known Issues
 ----------------
 
-[Stuck on "Loading Wallet..." after open](https://github.com/TheHolyRogerCoin/TheHolyRogerCoin/issues/15)
+[Can't build using Boost >=1.74](https://github.com/TheHolyRogerCoin/TheHolyRogerCoin/issues/17)
 
 What is TheHolyRoger?
 ----------------
